@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**M-hab0/M-hab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mehdi 👋
 
-Here are some ideas to get you started:
+## 🚀 Front-End Developer (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning and building projects with:
+
+- HTML
+- CSS (Flexbox & Grid)
+- JavaScript
+- React 
+
+---
+
+## 💪 About Me
+
+- 📍 Living in Turkey
+- 🧠 Learning coding every day
+- 🎯 Goal: Become a professional developer
+- 💼 Building real-world projects
+
+---
+
+## 🛠️ Skills
+
+HTML | CSS | JavaScript | Git | GitHub| React
+
+---
+
+## 📂 Projects
+
+- 🔹 Beauty Landing Page
+- 🔹 Starter Project (SCSS)
+- 🔹 More coming soon...
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/mahdi-habibi786
+- Instagram: https://instagram.com/mehab0__786
+- GitHub: https://github.com/M-hab0
