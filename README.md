@@ -29,8 +29,8 @@ HTML | CSS | JavaScript | Git | GitHub| React
 
 ## 📂 Projects
 
-- 🔹 Beauty Landing Page
-- 🔹 Starter Project (SCSS)
+## 🌐 Live Demo
+- 🔹 https://m-hab0.github.io/beauty-salon-booking-website/ 
 - 🔹 More coming soon...
 
 ---
